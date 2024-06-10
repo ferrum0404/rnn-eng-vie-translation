@@ -1,2 +1,2 @@
-## rnn-eng-vie-translation
+## RNN for English - Vietnamese Translation
 This is a project for subject DPL302m of the 5th semester in FPT University
