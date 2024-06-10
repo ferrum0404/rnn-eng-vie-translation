@@ -1,0 +1,28 @@
+DPL Project: RNN for English - Vietnamese Translation
+---
+
+Phase 1: Knowledge Preparation (week 4,5)
+	1. Học Git (due 2/6)
+	2. Học lý thuyết (due 9/6)
+	3. Hands-on Project (due 10/6)
+		https://projectgurukul.org/language-translator-project-machine-learning/
+
+Phase 2: Working with Dataset (week 6,7)
+
+Phase 3: Modeling (week 8,9,10)
+
+Phase 4: Reporting (week 11,12)
+
+Note: 1 week dư dành ra để back-up trong trường hợp 4 phases trên phát sinh vấn đề
+---
+
+2-week reports: 4, 6, 8, 10, 12
+---
+
+Week-4 report: Thành, Nhân (Fri 31/5)
++ Week 3:
+	Những nguồn thông tin (dataset, site lý thuyết, project sites, notebook) đã tìm được (nhớ cap ảnh màn mấy web mình voted để thầy xem, để chữ không nhìn hài lắm)
++ Week 4:
+	Show timeline của dự án (4 Phases trên vẽ dưới dạng cái mindmap rồi hẵng cho dô slide cho nó đẹp)
+	Show những info mà Thành/Nhân (ông nào thuyết trình ấy) đã học được, có kèm ảnh minh hoạ nha
+---	
