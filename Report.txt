@@ -15,7 +15,7 @@ Phase 2: Working with Dataset (week 6,7)
 		|--GRU cho dataset eng-fra	
 		VÀ
 		|
-		|--GRU cho dataset eng-vie	
+		|--GRU cho dataset eng-fra	
 		|
 		|--GRU cho dataset eng-vie    	
 	2. Tìm thêm dataset Anh-Việt mới để kết hợp với dataset eng-vie sẵn có
@@ -50,7 +50,7 @@ Week-6 report: Huy (Tue 18/6)
 		|--GRU cho dataset eng-fra	
 		VÀ
 		|
-		|--GRU cho dataset eng-vie	
+		|--GRU cho dataset eng-fra
 		|
 		|--GRU cho dataset eng-vie 
 ---
