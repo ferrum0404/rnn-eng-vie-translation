@@ -9,10 +9,15 @@ Phase 1: Knowledge Preparation (week 4,5)
 
 Phase 2: Working with Dataset (week 6,7)
 	1. Tìm hiểu và so sánh:
-		|						|
-		|--LSTM cho dataset eng-fra	    VÀ		|--GRU cho dataset eng-vie
-		|						|
-		|--GRU cho dataset eng-fra		    	|--GRU cho dataset eng-vie
+		|
+		|--LSTM cho dataset eng-fra	
+		|
+		|--GRU cho dataset eng-fra	
+		VÀ
+		|
+		|--GRU cho dataset eng-vie	
+		|
+		|--GRU cho dataset eng-vie    	
 	2. Tìm thêm dataset Anh-Việt mới để kết hợp với dataset eng-vie sẵn có
 
 Phase 3: Modeling (week 8,9,10)
@@ -39,8 +44,13 @@ Week-6 report: Huy (Tue 18/6)
 	Học mô hình LSTM cho bộ dataset eng-fra (Accuracy: 97%)
 + Week 6:
 	Tìm hiểu và so sánh:
-	|						|
-	|--LSTM cho dataset eng-fra	    VÀ		|--GRU cho dataset eng-vie
-	|						|
-	|--GRU cho dataset eng-fra		    	|--GRU cho dataset eng-vie
+		|
+		|--LSTM cho dataset eng-fra	
+		|
+		|--GRU cho dataset eng-fra	
+		VÀ
+		|
+		|--GRU cho dataset eng-vie	
+		|
+		|--GRU cho dataset eng-vie 
 ---
