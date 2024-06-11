@@ -22,7 +22,7 @@ Phase 4: Reporting (week 11,12)
 Note: 1 week dư dành ra để back-up trong trường hợp 4 phases trên phát sinh vấn đề
 ---
 
-2-week reports: 4, 6, 8, 10, 12
+2-week reports: 4 (Done), 6 (Done), 8, 10, 12
 ---
 
 Week-4 report: Thành, Nhân (Fri 31/5)
@@ -33,10 +33,10 @@ Week-4 report: Thành, Nhân (Fri 31/5)
 	Show những info mà Thành/Nhân (ông nào thuyết trình ấy) đã học được, có kèm ảnh minh hoạ nha
 ---	
 
-Week 6 report: Huy (Tue 18/6)
+Week-6 report: Huy (Tue 18/6)
 + Week 5:
 	Set up Repo Github
-	Học mô hình LSTM cho bộ  dataset eng-fra (Accuracy: 97%)
+	Học mô hình LSTM cho bộ dataset eng-fra (Accuracy: 97%)
 + Week 6:
 	Tìm hiểu và so sánh:
 	|										|
