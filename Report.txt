@@ -8,6 +8,12 @@ Phase 1: Knowledge Preparation (week 4,5)
 		https://projectgurukul.org/language-translator-project-machine-learning/
 
 Phase 2: Working with Dataset (week 6,7)
+	1. Tìm hiểu và so sánh:
+		|										|
+		|--LSTM cho dataset eng-fra	    VÀ		|--GRU cho dataset eng-vie
+		|										|
+		|--GRU cho dataset eng-fra		    	|--GRU cho dataset eng-vie
+	2. Tìm thêm dataset Anh-Việt mới để kết hợp với dataset eng-vie sẵn có
 
 Phase 3: Modeling (week 8,9,10)
 
@@ -26,3 +32,15 @@ Week-4 report: Thành, Nhân (Fri 31/5)
 	Show timeline của dự án (4 Phases trên vẽ dưới dạng cái mindmap rồi hẵng cho dô slide cho nó đẹp)
 	Show những info mà Thành/Nhân (ông nào thuyết trình ấy) đã học được, có kèm ảnh minh hoạ nha
 ---	
+
+Week 6 report: Huy (Tue 18/6)
++ Week 5:
+	Set up Repo Github
+	Học mô hình LSTM cho bộ  dataset eng-fra (Accuracy: 97%)
++ Week 6:
+	Tìm hiểu và so sánh:
+	|										|
+	|--LSTM cho dataset eng-fra	    VÀ		|--GRU cho dataset eng-vie
+	|										|
+	|--GRU cho dataset eng-fra		    	|--GRU cho dataset eng-vie
+---
