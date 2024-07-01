@@ -6,9 +6,10 @@ Phase 1: Knowledge Preparation (week 4,5)
 	2. Học lý thuyết (due 9/6)
 	3. Hands-on Project (due 10/6)
 		https://projectgurukul.org/language-translator-project-machine-learning/
+	4. Chuẩn bị báo cáo (due 10/6)
 
 Phase 2: Working with Dataset (week 6,7)
-	1. Tìm hiểu và so sánh:
+	1. Tìm hiểu và so sánh: (due 26/6) (Thành)
 		|
 		|--LSTM cho dataset eng-fra	
 		|
@@ -18,9 +19,13 @@ Phase 2: Working with Dataset (week 6,7)
 		|--GRU cho dataset eng-fra	
 		|
 		|--GRU cho dataset eng-vie    	
-	2. Tìm thêm dataset Anh-Việt mới để kết hợp với dataset eng-vie sẵn có
+	2. Tìm thêm dataset Anh-Việt mới để kết hợp với dataset eng-vie sẵn có (due 26/6) (Nhân)
+	3. Học lý thuyết về GRU và chuẩn bị báo cáo (due 26/6) (Huy)
 
 Phase 3: Modeling (week 8,9,10)
+	1. Kết hợp và hoàn thiện bộ dataset mới (TBD)
+	2. Modelling (TBD)
+	3. Chuẩn bị báo cáo (TBD)
 
 Phase 4: Reporting (week 11,12)
 
