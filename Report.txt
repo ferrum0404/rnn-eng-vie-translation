@@ -23,16 +23,18 @@ Phase 2: Working with Dataset (week 6,7)
 	3. Học lý thuyết về GRU và chuẩn bị báo cáo (due 26/6) (Huy)
 
 Phase 3: Modeling (week 8,9,10)
-	1. Kết hợp và hoàn thiện bộ dataset mới (TBD)
-	2. Modelling (TBD)
-	3. Chuẩn bị báo cáo (TBD)
+	1. Kết hợp và hoàn thiện bộ dataset mới (due July 18th)
+	2. Modelling (due August 5th)
+	3. Chuẩn bị báo cáo 1 (due July 9th)
+	4. Chuẩn bị báo cáo 2 (expected July 19th)
 
 Phase 4: Reporting (week 11,12)
+	1. 12th week report (expected August 6th)
 
 Note: 1 week dư dành ra để back-up trong trường hợp 4 phases trên phát sinh vấn đề
 ---
 
-2-week reports: 4 (Done), 6 (Done), 8, 10, 12
+2-week reports: 4 (Done), 6 (Done), 8 (Done), 10, 12
 ---
 
 Week-4 report: Thành, Nhân (Fri 31/5)
@@ -58,4 +60,14 @@ Week-6 report: Huy (Tue 18/6)
 		|--GRU cho dataset eng-fra
 		|
 		|--GRU cho dataset eng-vie 
+---
+
+
+8th week report: Huy (July 9th)
+---
+
+10th week report: Huy (expected July 19th)
+---
+
+12th week report: Huy (expected August 6th)
 ---
